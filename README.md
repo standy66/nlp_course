@@ -2,7 +2,7 @@
 * Lecture and seminar materials for each week are in ./week* folders
 * Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/nlp_course/master)
 * Telegram [chat room](https://t.me/joinchat/EF9ahRMBrVaZm0CgnZgQww) (russian).
-* YSDA deadline and lateness policy will be announced shortly (__TBA__).
+* YSDA homework deadlines are listed in [Anytask course page](https://anytask.org/course/384).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/nlp_course/issues)
 * Installing libraries and troubleshooting: [this thread](https://github.com/yandexdataschool/nlp_course/issues/1).
 
@@ -17,8 +17,8 @@
   - Seminar: Salary prediction with convolutional neural networks; explaining network predictions.
 
 - __week03__ Language Models
-  - Lecture: TBU
-  - Seminar: TBU
+  - Lecture: Language models: N-gram and neural approaches; visualizing trained models
+  - Seminar: Generating ArXiv papers with language models
 
 # Contributors & course staff
 Course materials and teaching performed by
